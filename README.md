@@ -6,3 +6,4 @@ Sama seminarska naloga se navezuje na zamude vlakov v Sloveniji v obdobju od jan
 - Jakob Horvat
 - Klemen Jerman
 - Nejc Kaluža
+-Sebastjan Šibenik
